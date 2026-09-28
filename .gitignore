@@ -1,0 +1,56 @@
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ── Jupyter Notebooks ─────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Data files (can be large; regenerate with generate_dataset.py) ──
+# Uncomment the line below if you do NOT want to commit the CSV.
+# data/
+
+# ── Generated output plots ────────────────────────────────────
+# Comment out if you want to commit the figures to the repo.
+outputs/
+
+# ── IDE / editor configs ──────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── OS junk ───────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs & temp files ─────────────────────────────────────────
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ── Environment variable files ────────────────────────────────
+.env
+.env.local
+
+# ── pytest / coverage ─────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
