@@ -5,7 +5,7 @@
 # Model   : scikit-learn DecisionTreeClassifier
 # ============================================================
 
-# -- Standard library / third-party imports -----------------------------------
+# -- Standard library / third-party imports ---------------------------------
 import os
 import warnings
 import numpy as np

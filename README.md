@@ -167,6 +167,6 @@ Therefore we optimise and report **Recall for the "Yes" (Leave) class**.
 
 ## References
 
-- IBM HR Analytics Dataset — [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-- scikit-learn Decision Tree documentation — [sklearn.tree.DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
-- Breiman et al., *Classification and Regression Trees* (1984)
+- IBM HR Analytics Dataset — [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
+- scikit-learn Decision Tree documentation — [sklearn.tree.DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html).
+- Breiman et al., *Classification and Regression Trees* (1984).
